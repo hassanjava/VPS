@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-11T19:29:49.696Z" agent="5.0 (Windows)" etag="h8zbyPqWxXK_qDmT5YkS" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-11T20:06:15.516Z" agent="5.0 (Windows)" etag="j-JqR8cRHp5iQq-8UjIY" version="15.5.1" type="github">
   <diagram id="x4owfdX75dDXYJdOpjTH" name="Page-1">
     <mxGraphModel dx="868" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -53,7 +53,10 @@
           <mxGeometry x="490" y="435" width="24" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ObfLZrLvzloqoNklfVnM-22" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=none;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="90" y="30" width="780" height="720" as="geometry" />
+          <mxGeometry x="90" y="70" width="780" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="ObfLZrLvzloqoNklfVnM-23" value="Process waiting for event.set()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#095C86;" vertex="1" parent="1">
+          <mxGeometry x="350" y="20" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
